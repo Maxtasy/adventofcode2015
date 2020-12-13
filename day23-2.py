@@ -1,4 +1,4 @@
-# https://adventofcode.com/2015/day/21
+# https://adventofcode.com/2015/day/23
 
 
 def part2(input_file):
